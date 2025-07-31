@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5_InvalidLoginShowsError</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25f60a9c-39d7-4df5-b5e5-c41acd7f214e</testCaseGuid>
+</TestCaseEntity>
