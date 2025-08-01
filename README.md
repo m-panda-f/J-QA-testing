@@ -11,8 +11,11 @@ Two different approaches were implemented:
 ## 📁 Project Structure
 
 J-QA-testing/
+
 ├── JanitriQA/ ← Katalon Studio project
+
 ├── qa-automation/ ← Selenium + TestNG (Java) framework
+
 └── TestCases.xlsx ← Manual test cases with expected & actual results
 
 yaml
